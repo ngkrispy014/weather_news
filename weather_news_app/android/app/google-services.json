@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "886931327358",
+    "firebase_url": "https://weathernews-7de75.firebaseio.com",
+    "project_id": "weathernews-7de75",
+    "storage_bucket": "weathernews-7de75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886931327358:android:97bd81f4e6d4aa643b8b2f",
+        "android_client_info": {
+          "package_name": "com.weathernews.weather_news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886931327358-jfgkmlcr2tn2juubt2vb22shak57lvsb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weathernews.weather_news_app",
+            "certificate_hash": "f366266f59c56d5bfdf1de123b768fddd16d988e"
+          }
+        },
+        {
+          "client_id": "886931327358-ddg89hreguj6s64eq63tp52k50jprur8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeVhczHnIhI0kgUxuidwitAUD-suBPrjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886931327358-ddg89hreguj6s64eq63tp52k50jprur8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "886931327358-hf5io6ou68m5r5mv6ql4tjfkavd7k3nq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.weathernews.example"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
